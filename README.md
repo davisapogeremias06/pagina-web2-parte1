@@ -10,3 +10,21 @@
         <a href="#"><img src="img/Usuario.svg" alt="Meu perfil" class="container__imagem"></a>
     </div>
 </header>
+<ul class="lista-menu">
+  <li class="lista-menu__titulo">Categorias</li>
+  <li class="lista-menu__item">
+    <a href="#" class="lista-menu__link">Programação</a>
+  </li>
+  <li class="lista-menu__item">
+    <a href="#" class="lista-menu__link">Front-end</a>
+  </li>
+  <li class="lista-menu__item">
+    <a href="#" class="lista-menu__link">Infraestrutura</a>
+  </li>
+  <li class="lista-menu__item">
+    <a href="#" class="lista-menu__link">Business</a>
+  </li>
+  <li class="lista-menu__item">
+    <a href="#" class="lista-menu__link">Design & UX</a>
+  </li>
+</ul>
